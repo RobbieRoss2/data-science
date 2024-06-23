@@ -1,4 +1,4 @@
-# data-science
+# Data Scientist
 
 ### Education
 Mathematics and Statistics, Bachelor of Science with First Class Honours
