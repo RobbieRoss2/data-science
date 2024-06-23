@@ -1,7 +1,7 @@
 # data-science
 
-###Education
+### Education
 Mathematics and Statistics, Bachelor of Science with First Class Honours
 
-###Projects
+### Projects
 Air Pollution and Respiratory Illness Analysis
